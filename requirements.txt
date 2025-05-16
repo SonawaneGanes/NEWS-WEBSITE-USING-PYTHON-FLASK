@@ -1,0 +1,4 @@
+Flask             # The main web framework
+mysql-connector-python  # For connecting Python with MySQL database
+
+pip install -r requirements.txt

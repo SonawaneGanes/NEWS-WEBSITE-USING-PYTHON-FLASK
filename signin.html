@@ -1,0 +1,26 @@
+<!-- File: templates/signin.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signin</title>
+    <link rel="stylesheet" href="/static/css/signin.css">
+</head>
+<body>
+    <div class="form-container">
+        <h2>Signin</h2>
+        <form method="POST" action="/signin">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Signin</button>
+        </form>
+        <p>Don't have an account? <a href="/signup">Signup here</a>.</p>
+    </div>
+</body>
+ <script src="/static/js/signin.js" defer></script>
+</html>

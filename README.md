@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ⚙️ Setup Instructions 
 
-git clone https://github.com/your-username/news-website-flask.git
+(https://github.com/SonawaneGanes/NEWS-WEBSITE-USING-PYTHON-FLASK.git)
 cd news-website-flask
 pip install -r requirements.txt
 

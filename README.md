@@ -57,6 +57,8 @@ Ganesh Sonawane
 LinkedIn Profile :- https://www.linkedin.com/in/ganesh-sonawane-356179219
 
 📄 License
+
+<img src="https://github.com/SonawaneGanes/GaneshSonawane/blob/main/Screenshot%202025-05-20%20154147.png">
 This project is licensed under the MIT License.
  
 
